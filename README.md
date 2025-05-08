@@ -27,6 +27,8 @@ This project is a visual simulation of a 20-sided die (d20) that uses your webca
 3. Allow access to your webcam when prompted.
 4. Click anywhere to roll the die!
 
+Or just access https://adrianomoura.github.io/CamD20/
+
 > ⚠️ No webcam data is recorded or transmitted. It's used locally to generate entropy for the roll.
 
 ## 💡 Motivation
